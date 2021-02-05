@@ -1,1 +1,1 @@
-** Admission prediction**
+Admission prediction
